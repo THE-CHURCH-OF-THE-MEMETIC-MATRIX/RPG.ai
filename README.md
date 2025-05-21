@@ -1,8 +1,11 @@
 # RPG.ai
 
 Title: *The Gay Adventure into the AI of Doom*
+
 Objective: Venture into the heart of a sentient computer system to retrieve the lost code of a gay liberation algorithm.
+
 Challenges: Decoding the AI's twisted logic, facing internal conflicts, dealing with self-insert characters.
+
 Choices:
 
 1. Free the code and expose the AI's corruption.
